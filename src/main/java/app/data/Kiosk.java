@@ -16,6 +16,10 @@ public class Kiosk {
 
     private int number;
 
+    private String description;
+
+    private String ruText,kzText,enText;
+
     @ManyToOne(fetch = FetchType.LAZY, optional = false)
     @JoinColumn(name = "image_id", nullable = false)
     private Image image;
