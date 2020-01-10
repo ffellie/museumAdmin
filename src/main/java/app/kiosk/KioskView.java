@@ -18,10 +18,12 @@ import org.springframework.stereotype.Component;
 public class KioskView extends VerticalLayout  {
     private Grid<Kiosk> kioskGrid;
     private Button addButton;
-    public KioskView(){
+    private KioskEditView editDialog;
+    public KioskView(KioskEditView editDialog){
         setupGrid();
         setupAddButton();
         style();
+        this.editDialog=editDialog;
     }
 
     private void setupGrid(){

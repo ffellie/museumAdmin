@@ -4,12 +4,13 @@
     <list default="true" id="87d4363c-25b0-4642-8e93-e7ae050637b6" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/data/demo.mv.db" beforeDir="false" afterPath="$PROJECT_DIR$/data/demo.mv.db" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/app/data/ImageRepository.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/app/data/ImageRepository.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/app/data/Kiosk.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/app/data/Kiosk.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/app/kiosk/KiosksRoute.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/app/kiosk/KiosksRoute.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/app/mainUI/MainRoute.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/application.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/application.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/app/data/Strings.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/app/data/Strings.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/app/kiosk/KioskEditPresenter.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/app/kiosk/KioskEditPresenter.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/app/kiosk/KioskEditRoute.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/app/kiosk/KioskEditView.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/app/kiosk/KioskEditView.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/app/kiosk/KioskView.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/app/kiosk/KioskView.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/app/kiosk/KiosksPresenter.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/app/kiosk/KiosksPresenter.java" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -92,7 +93,8 @@
       <workItem from="1578296798471" duration="2752000" />
       <workItem from="1578453595081" duration="3919000" />
       <workItem from="1578551674666" duration="321000" />
-      <workItem from="1578552011253" duration="9190000" />
+      <workItem from="1578552011253" duration="9272000" />
+      <workItem from="1578631353840" duration="11466000" />
     </task>
     <servers />
   </component>

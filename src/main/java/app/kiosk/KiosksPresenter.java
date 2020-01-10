@@ -10,7 +10,7 @@ public class KiosksPresenter {
 
     public void view(KioskView view){
         view.getAddButton().addClickListener(buttonClickEvent -> {
-            new KioskEditRoute().open();
+            view.getEditDialog().open();
         });
     }
 

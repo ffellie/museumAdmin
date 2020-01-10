@@ -14,6 +14,7 @@ public class Kiosk {
     @GeneratedValue
     private long id;
 
+    @Column(unique = true)
     private int number;
 
     private String description;
